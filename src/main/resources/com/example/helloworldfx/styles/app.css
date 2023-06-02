@@ -1,0 +1,215 @@
+#mainPanel{
+    -fx-background-color: red;
+    -fx-spacing: 0px;
+    -fx-alignment: center;
+}
+#divider{
+    -fx-pref-width: 400;
+    -fx-pref-height: 20;
+    -fx-background-color: white;
+    -fx-border-width: 0;
+
+}
+#header{
+    -fx-pref-width: 400;
+    -fx-pref-height: 100;
+    -fx-background-color: #3E4756;
+    -fx-border-width: 0;
+    -fx-background-position: center;
+}
+#main{
+    -fx-pref-width: 400;
+    -fx-pref-height: 480;
+    -fx-background-color: #3E4756;
+    -fx-border-width: 0px;
+}
+
+.headerButton{
+    -fx-pref-width: 200;
+    -fx-pref-height: 200;
+    -fx-border-width: 0px;
+    -fx-background-color: #3E4756;
+
+
+}
+
+#btnsetting{
+    -fx-background-image: url(../images/gear-50.png);
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
+
+#btnuser{
+    -fx-background-image: url(../images/user-50.png);
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
+
+#btntropy{
+    -fx-background-image: url(../images/trophy-50.png);
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
+
+#btnpower{
+    -fx-background-image: url(../images/shutdown-50.png);
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
+
+#leftTouchPanel{
+    -fx-pref-width: 200;
+    -fx-border-color: #3E4756;
+    -fx-padding: 10;
+    -fx-alignment: center-left;
+}
+#rightTouchPanel  {
+    -fx-pref-width: 200;
+    -fx-border-color: #3E4756;
+    -fx-padding: 10;
+    -fx-alignment: center-left;
+}
+
+#TouchPanel{
+    -fx-pref-width: 400;
+    -fx-pref-height: 120;
+    -fx-background-color: #3E4756;
+
+}
+
+#lblTouchTitle{
+    -fx-font-family: "roboto";
+    -fx-font-weight: bold;
+    -fx-text-fill: white;
+    -fx-font-size: 16;
+}
+
+#txtTouchText{
+    -fx-font-family: "roboto";
+    -fx-font-weight: 600;
+    -fx-fill: white;
+    -fx-font-size: 12;
+}
+
+#btnToggle {
+    -fx-background-image: url(../images/toggle-50.png);
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    -fx-pref-width: 70;
+    -fx-pref-height: 30;
+
+    -fx-background-color: #3E4756;
+}
+
+#leftTouchPanel2{
+    -fx-pref-width: 200;
+
+    -fx-padding: 10;
+    -fx-alignment: center-left;
+}
+#rightTouchPanel2  {
+    -fx-pref-width: 200;
+
+    -fx-padding: 10;
+    -fx-alignment: center-left;
+}
+
+#TouchPanel2{
+    -fx-pref-width: 400;
+    -fx-pref-height: 120;
+    -fx-background-color: #3E4756;
+
+}
+
+#lblTouchTitle2{
+    -fx-font-family: "roboto";
+    -fx-font-weight: bold;
+    -fx-text-fill: #DEDEDE;
+    -fx-font-size: 16;
+}
+
+#txtTouchText2{
+    -fx-font-family: "roboto";
+    -fx-font-weight: 600;
+    -fx-fill: white;
+    -fx-font-size: 12;
+}
+
+#btnToggle2 {
+    -fx-background-image: url(../images/toggle-50.png);
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    -fx-pref-width: 70;
+    -fx-pref-height: 30;
+    -fx-background-color: #3E4756;
+}
+
+#TouchPanel3{
+    -fx-pref-width: 400;
+    -fx-pref-height: 120;
+    -fx-background-color: #3E4756;
+}
+
+
+#TouchPanel3{
+    -fx-pref-width: 200;
+    -fx-padding: 10;
+    -fx-alignment: center-left;
+}
+
+#lblTouchTitle3{
+    -fx-font-family: "roboto";
+    -fx-font-weight: bold;
+    -fx-text-fill: white;
+    -fx-font-size: 16;
+}
+
+#TouchPanel4{
+    -fx-pref-width: 100;
+    -fx-background-color:#3E4756;
+    -fx-padding: 30;
+    -fx-alignment: center-left;
+}
+
+#leftTouchPanel4{
+    -fx-pref-width: 200;
+    -fx-padding: 10;
+    -fx-alignment: center-right;
+}
+#btnToggle3 {
+    -fx-min-height: 40;
+    -fx-padding: 10;
+
+}
+#btnToggle4 {
+    -fx-min-height: 40;
+    -fx-padding: 10;
+
+}
+#rightTouchPanel5  {
+    -fx-pref-width: 200;
+    -fx-padding: 10;
+    -fx-alignment: center-left;
+}
+
+#line , #line2{
+    -fx-stroke: rgb(159, 157, 157);
+    -fx-stroke-width: 1;
+}
+
+
+#btnBarra{
+    -fx-background-image: url(../images/gauge.png);
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    -fx-pref-width: 370;
+    -fx-pref-height: 120;
+    -fx-background-color: #3E4756;
+}
+
+#barra{
+
+    -fx-pref-width: 400;
+    -fx-pref-height: 120;
+}
+
